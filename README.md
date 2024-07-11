@@ -3,4 +3,5 @@ A convolutional nueral network which classifies objects from the CIFAR-10 datase
 
 Confusion matrix:
 
+![plot](./WMA4_py/confm_accuracy.png)
 https://github.com/vvvvvaves/CIFAR10-model/blob/main/WMA4_py/confm_accuracy.png
