@@ -8,3 +8,6 @@ Trainig history plot:
 Confusion matrix and accuracy:
 
 ![plot](./WMA4_py/confm_accuracy.png)
+
+![plot](./WMA4_py/models/log.csv)
+
